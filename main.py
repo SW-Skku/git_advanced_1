@@ -21,7 +21,7 @@ def sum_of_squares_of_even(List):
     """
     sum = 0
     for i in List:
-        sum+=(List*List)
+        sum+=(i*i)
         
     return sum
     # TODO: Implement sum_of_squares_of_even
